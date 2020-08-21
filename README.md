@@ -1,5 +1,5 @@
 
-# README Please :)
+# README 
 
 # Introduction
 
